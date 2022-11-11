@@ -5,6 +5,7 @@
 - 📚 Estudando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba
 - 📩 Entre em contato comigo no email: vcrszg@gmail.com
 - 🗺️ Resido em Osasco, região metropolitana da cidade de São Paulo
+- 🧑‍💻 Me encontre no LinkedIn: https://br.linkedin.com/in/vinicius-camargo-rocha-de-souza
 
 ## Minhas skills:
 
