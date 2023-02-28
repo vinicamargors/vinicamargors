@@ -10,7 +10,7 @@
 ## Minhas skills:
 
 ### Backend:
-- JAVA, PHP, C#, Node.js
+- JAVA, C#, Node.js
 
 ### Frontend:
 - HTML, CSS, JavaScript, React.js, Figma
